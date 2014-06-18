@@ -1,4 +1,3 @@
-nodetest
-========
+The OpenShift `nodejs` cartridge documentation can be found at:
 
-node testing
+http://openshift.github.io/documentation/oo_cartridge_guide.html#nodejs
